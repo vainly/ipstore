@@ -4,7 +4,7 @@ from pymongo import MongoClient
 import json
 
 
-ip = "123.57.29.130"
+ip = "123.57.29.13"
 port = 27017
 
 
